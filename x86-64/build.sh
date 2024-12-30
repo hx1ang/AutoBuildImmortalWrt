@@ -26,6 +26,7 @@ PACKAGES="$PACKAGES luci-i18n-adguardhome-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-samba4-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-qbittorrent-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-turboacc-zh-cn"
+PACKAGES="$PACKAGES luci-i18n-hd-idle-zh-cn"
 
 
 # 构建镜像
