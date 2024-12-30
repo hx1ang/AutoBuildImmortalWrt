@@ -25,7 +25,6 @@ PACKAGES="$PACKAGES mosdns"
 PACKAGES="$PACKAGES adguardhome"
 PACKAGES="$PACKAGES luci-i18n-samba4-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-qbittorrent-zh-cn"
-PACKAGES="$PACKAGES turboacc"
 PACKAGES="$PACKAGES luci-i18n-hd-idle-zh-cn"
 
 
